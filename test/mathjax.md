@@ -6,4 +6,4 @@ title: MathJax Test
 
 \[ I = \frac{U}{R} \]
 
-\[ M = \sum \limits _{k=1} ^n m(k) \]
+$$ M = \sum \limits _{k=1} ^n m(k) $$
