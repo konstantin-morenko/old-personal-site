@@ -30,6 +30,16 @@ title: Справка по pgf/tikz
 
 - [Обозначение углов в `tikz`](http://tex.stackexchange.com/questions/20826/label-angle-with-tikz)
 
+А ещё угол можно обозначить с помощью специальной библиотеки `angles`
+
+    \usetikzlibrary{angles}
+	\tikz \draw (2,0) coordinate (A) -- (0,0) coordinate (B)
+    -- (-1,-1) coordinate (C)
+    pic [draw,->,red,thick,angle radius=1cm] {angle = C--B--A};
+
+- Раздел 39 в руководсте по [pgf/tikz](http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf#page=511)
+- [tex.stackexchange.com](http://tex.stackexchange.com/a/136971/119485)
+
 # Обозначение фигурной скобкой
 
     \usepackage{tikz}
