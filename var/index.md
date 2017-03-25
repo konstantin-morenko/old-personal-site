@@ -2,4 +2,4 @@
 title: Различные материалы
 ---
 
-- [Гиперссылки]({% var/hyperlinks.md %})
+- [Гиперссылки]({% link var/hyperlinks.md %})
