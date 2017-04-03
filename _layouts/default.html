@@ -28,7 +28,7 @@
 
 	<a href="{% link index.md %}" class="button"><strong>На главную</strong></a>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <a href="{{ site.github.repository_url }}" class="button"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -38,6 +38,8 @@
             </ul>
           </div>
         {% endif %}
+  	<a href="{% link contact.md %}"	class="button"><strong>Обратная связь</strong></a>
+
       </div><!-- end banner -->
 
     <div class="wrapper">
@@ -49,6 +51,7 @@
 
       </section>
       <footer>
+	<p>Электронная почта <a href="mailto:me@konstantin-morenko.ru">me@konstantin-morenko.ru</a></p>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
