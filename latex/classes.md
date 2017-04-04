@@ -21,3 +21,10 @@ title: Полезные классы документов и пакеты LaTeX
   графики, схемы, диаграммы и прочий графический материал
 - [listings](http://ctan.org/pkg/listings) --- оформление листингов
   программ на многих языках
+- [biblatex-gost](http://ctan.org/pkg/biblatex-gost) --- оформление
+  библиографии согласно
+  [ГОСТ Р 7.0.5-2008](https://ru.wikisource.org/wiki/ГОСТ_Р_7.0.5-2008),
+  (подробнее об оформлении согласно
+  [ГОСТ 7.1-2003](https://ru.wikisource.org/wiki/ГОСТ_7.1-2003)
+  и различиях
+  [страница 3 в документации пакета](http://mirrors.ctan.org/macros/latex/contrib/biblatex-contrib/biblatex-gost/doc/biblatex-gost.pdf#page=3)
