@@ -5,6 +5,7 @@ title: Различные материалы
 # HTML
 
 - [Гиперссылки]({% link var/hyperlinks.md %})
+- [Изменение метаданных pdf-файла]({% link var/change-pdf-title-and-author.md %})
 
 # Программирование
 
