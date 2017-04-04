@@ -34,35 +34,57 @@ title: Персональный блог Константина Моренко
 
 [Обо мне](resume.md)
 
-# Книги {#books}
-
-- [Электротехнологии, аккумуляторы и батареи](battery-info.ru)
-
-## Научно-популярные
-
-- [История технологий](https://www.gitbook.com/read/book/konstantin-morenko/istoriya-tehnologii) (в разработке)
-- [Электротехнилогии, аккумуляторы и батареи](https://www.gitbook.com/read/book/konstantin-morenko/elektrotehnologii-akkumulyatori-i-batarei) (в разработке)
-
-## Мышление
-
-- [Мнемотехника](https://www.gitbook.com/read/book/konstantin-morenko/mnemotehnika) (в разработке)
-
-## Справочники
-
-- Справочник английского языка (проект)
-- Указатель статей в журналах для радиолюбителей (проект)
-- [LaTeX]({% link latex/index.md %})
-- [Различное]({% link var/index.md %})
-
-# Размышления
-
-- [Размышления о Пути]({% link thoughts/thoughts-about-path.md %})
-- [Короткое резюме о себе]({% link thoughts/ten-sentences.md %})
+# Наука {#science}
 
 # Проекты {#projects}
 
 - [Ежедневно писать по 2500 символов оригинального текста]({% link projects/everyday-writing.md %})
 
-# Задачи по физике
+## Электроника и микроконтроллеры {#electronics}
+
+- Намоточный станок с автоматической укладкой (опубликование)
+- Электронные часы с датой и коррекцией точности хода (опубликование)
+- Частотомер (опубликование)
+- Измерение температуры с помощью датчиков 18B20 (опубликование)
+- Счётчик моточасов на микроконтроллере (опубликование)
+
+## Переводы {#translates}
+
+- Основы и выбор кварцевых резонаторов для микроконтроллеров
+
+## Книги {#books}
+
+### Научно-популярные
+
+- [История технологий](https://www.gitbook.com/read/book/konstantin-morenko/istoriya-tehnologii) (в разработке)
+- [Электротехнилогии, аккумуляторы и батареи](battery-info.ru) (в разработке)
+
+### Мышление
+
+- [Мнемотехника](https://www.gitbook.com/read/book/konstantin-morenko/mnemotehnika) (в разработке)
+
+### Справочники
+
+- Справочник английского языка (проект)
+- Указатель статей в журналах для радиолюбителей (проект)
+
+## Программирование {#programming}
+
+### Технология
+
+### Языки
+
+- [LaTeX]({% link latex/index.md %})
+
+# Наброски {#sketches}
+
+- [Различное]({% link var/index.md %})
+
+## Размышления
+
+- [Размышления о Пути]({% link thoughts/thoughts-about-path.md %})
+- [Короткое резюме о себе]({% link thoughts/ten-sentences.md %})
+
+## Задачи по физике
 
 - [Частица соскальзывает по поверхности гладкой полусферы]({% link physics/sliding-particle.md %})
