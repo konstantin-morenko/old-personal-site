@@ -21,7 +21,9 @@ title: Научные труды
 Тексты всех статей можно скачать в формате pdf с помощью ссылок после
 каждой статьи.
 
-Список моих научных трудов в хронологическом порядке в pdf, или biblatex.
+Список моих научных трудов в хронологическом порядке в
+[pdf]({% link science/konstantin-morenko.pdf %}), или
+[biblatex]({% link science/konstantin-morenko.bst %}).
 
 
 {% for year in site.data.articles.years %}
