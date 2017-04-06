@@ -23,8 +23,14 @@ title: Резюме
 
 Сайт университета [intuit.ru](intuit.ru)
 
-- [Метрология, стандартизация, сертификация и управление качеством](http://www.intuit.ru/verifydiplomas/100850078)
-- [Основы программирования](http://www.intuit.ru/verifydiplomas/100886808)
+{% for year in site.data.diplomas.years %}
+  <h2>{{ year.year }}</h2>
+  <ul>
+  {% for item in year.items %}
+    <li><a href="{{ item.hyper }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}
 
 # Научные труды
 
