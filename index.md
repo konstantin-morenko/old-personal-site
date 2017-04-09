@@ -70,7 +70,14 @@ title: Персональный блог Константина Моренко
 
 ## Программирование {#programming}
 
+- [Emacs]({% link emacs/emacs.md %}) (хотя Emacs это стиль жизни)
+- [Org]({% link emacs/org.md %})
+- [Git]({% link var/git.md %})
+- [Гиперссылки]({% link var/hyperlinks.md %})
+
 ### Технология
+
+- [Осмысленное (семантическое) именование версий программ](http://semver.org/lang/ru/)
 
 ### Языки
 
@@ -78,7 +85,7 @@ title: Персональный блог Константина Моренко
 
 # Наброски {#sketches}
 
-- [Различное]({% link var/index.md %})
+- [Изменение метаданных pdf-файла]({% link var/change-pdf-title-and-author.md %})
 
 ## Размышления
 

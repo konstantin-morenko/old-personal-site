@@ -28,3 +28,9 @@ title: Полезные классы документов и пакеты LaTeX
   [ГОСТ 7.1-2003](https://ru.wikisource.org/wiki/ГОСТ_7.1-2003)
   и различиях
   [страница 3 в документации пакета](http://mirrors.ctan.org/macros/latex/contrib/biblatex-contrib/biblatex-gost/doc/biblatex-gost.pdf#page=3)
+- [geometry](http://ctan.org/pkg/geometry) --- простой способ задать
+  размеры листа и полей, отступы колонтитулов
+- [fancyhdr](http://ctan.org/pkg/fancyhdr) --- управление
+  колонтитулами документа
+- [datetime2](https://www.ctan.org/pkg/datetime2) --- управление
+  выводом даты с помощью команды `\today` и другое
