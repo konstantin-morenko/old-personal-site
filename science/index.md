@@ -29,8 +29,10 @@ title: Научные труды
 {% for year in site.data.articles.years %}
   <h2>{{ year.year }}</h2>
 
+  <table>
   {% for article in year.articles %}
-  {{ article.biblio }} <a href="{{ article.file }}">pdf</a>
+  <tr><td> {{ article.biblio }} </td><td><a href="{{ article.file }}">pdf</a></td></tr>
   {% endfor %}
+  </table>
 
 {% endfor %}

@@ -26,6 +26,23 @@
  langid    = {russian},
 }
 
+@Comment {2013}
+@article{morenko-evaluation-unstability-rotation-speed,
+ keywords  = {konstantin-morenko},
+ author    = {Моренко, К. С.},
+ title     = {Оценка влияния нестабильности ветрового потока на
+                  частоту вращения ветроколеса в ходе
+                  экспериментальных исследований},
+ journal   = {Политематический сетевой электронный научный журнал
+                  Кубанского государственного аграрного университета},
+ pages     = {343--355},
+ number    = {90},
+ year      = {2013},
+ langid    = {russian},
+ media     = {text},
+ url       = {http://ej.kubagro.ru/2013/06/pdf/02.pdf},
+}
+
 @Comment {2015}
 @collection{tech-conf-piter-2015,
  title     = {Актуальные вопросы технических наук в современных
