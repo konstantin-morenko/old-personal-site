@@ -34,3 +34,5 @@ title: Полезные классы документов и пакеты LaTeX
   колонтитулами документа
 - [datetime2](https://www.ctan.org/pkg/datetime2) --- управление
   выводом даты с помощью команды `\today` и другое
+- [units](http://ctan.org/pkg/units) --- «красивый» вывод единиц
+  измерений в строке ([пример]({% link latex/units-example.md %}))
