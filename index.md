@@ -86,6 +86,7 @@ title: Персональный блог Константина Моренко
 # Наброски {#sketches}
 
 - [Изменение метаданных pdf-файла]({% link var/change-pdf-title-and-author.md %})
+- [Как хорошо высыпаться]({% link var/sleep-better.md %})
 
 ## Размышления
 
