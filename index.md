@@ -38,7 +38,14 @@ title: Персональный блог Константина Моренко
 
 # Проекты {#projects}
 
+## Блог {#blog}
+
+- [Преимущества блога, если хочешь написать книгу]({% link blog/book-advantages.md %})
 - [Ежедневно писать по 2500 символов оригинального текста]({% link projects/everyday-writing.md %})
+
+# Самоорганизация {#self-improvement}
+
+- [Записывайте все свои идеи]({% link self-improvement/write-down-ideas.md %})
 
 ## Электроника и микроконтроллеры {#electronics}
 
