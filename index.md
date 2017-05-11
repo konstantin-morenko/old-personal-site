@@ -36,6 +36,9 @@ title: Персональный блог Константина Моренко
 
 # Наука {#science}
 
+- [Научная квалификация]({% link science/index.md %}#degree)
+- [Список научных трудов с pdf]({% link science/index.md %}#publications)
+
 # Проекты {#projects}
 
 ## Блог {#blog}
