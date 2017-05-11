@@ -42,6 +42,18 @@
  media     = {text},
  url       = {http://ej.kubagro.ru/2013/06/pdf/02.pdf},
 }
+@article{morenko-usage-of-low-quality-energy-of-wind-plant,
+ keywords  = {konstantin-morenko},
+ author    = {Моренко, К. С. and Степанчук, Г. В.},
+ title     = {Использование низкокачественной электроэнергии
+                  ветроэлектростанции с двухроторным генератором},
+ journal   = {Инновации в сельском хозяйстве},
+ pages     = {63--65},
+ number    = {1(3)},
+ year      = {2013},
+ langid    = {russian},
+ media     = {text},
+}
 
 @Comment {2015}
 @collection{tech-conf-piter-2015,
