@@ -65,7 +65,13 @@ title: Персональный блог Константина Моренко
 
 ## Книги {#books}
 
-## Художественные
+### На других ресурсах
+
+- [Константин Моренко](http://www.proza.ru/avtor/kmoren) на Прозе.ру
+- [Макс Фокс](http://www.proza.ru/avtor/maxfox) на Прозе.ру
+- [Макс Кнопка](http://www.proza.ru/avtor/maxknopka) на Прозе.ру
+
+### Художественные
 
 - Мистический роман [{Бес}Смертная](https://ridero.ru/books/bes_smertnaya/)
 
