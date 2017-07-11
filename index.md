@@ -113,6 +113,7 @@ title: Персональный блог Константина Моренко
 
 - [Размышления о Пути]({% link thoughts/thoughts-about-path.md %})
 - [Короткое резюме о себе]({% link thoughts/ten-sentences.md %})
+- [Руководство по check-листам]({% link thoughts/checklist.md %})
 
 ## Задачи по физике
 
