@@ -65,6 +65,8 @@ title: Персональный блог Константина Моренко
 
 ## Книги {#books}
 
+На [gitbook.com](https://www.gitbook.com/@konstantin-morenko)
+
 ### На других ресурсах
 
 - [Константин Моренко](http://www.proza.ru/avtor/kmoren) на Прозе.ру
