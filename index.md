@@ -85,6 +85,7 @@ title: Персональный блог Константина Моренко
 ### Мышление
 
 - [Мнемотехника](https://www.gitbook.com/read/book/konstantin-morenko/mnemotehnika) (в разработке)
+- [О пользе мнемотехники](https://konstantin-morenko.gitbooks.io/mnemonics/content/why.html)
 
 ### Справочники
 
