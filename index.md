@@ -106,6 +106,7 @@ title: Персональный сайт Константина Моренко
 - [Короткое резюме о себе]({% link thoughts/ten-sentences.md %})
 - [Руководство по check-листам]({% link thoughts/checklist.md %})
 - [Зачем нужно уметь общаться с людьми?]({% link thoughts/people.md %})
+- [База данных скетчей]({% link thoughts/sketch-database.md %})
 
 ## Задачи по физике
 
