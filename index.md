@@ -108,6 +108,7 @@ title: Персональный сайт Константина Моренко
 - [Зачем нужно уметь общаться с людьми?]({% link thoughts/people.md %})
 - [База данных скетчей]({% link thoughts/sketch-database.md %})
 - [Фоновая музыка]({% link thoughts/back-music.md %})
+- [Распространение информации и идей (sharing)]({% link thoughts/sharing.md %})
 
 ## Задачи по физике
 
