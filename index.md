@@ -109,6 +109,7 @@ title: Персональный сайт Константина Моренко
 - [База данных скетчей]({% link thoughts/sketch-database.md %})
 - [Фоновая музыка]({% link thoughts/back-music.md %})
 - [Распространение информации и идей (sharing)]({% link thoughts/sharing.md %})
+- [Привычки]({% link thoughts/habits.md %})
 
 ## Задачи по физике
 
