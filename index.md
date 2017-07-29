@@ -114,6 +114,7 @@ title: Персональный сайт Константина Моренко
 - [Распространение информации и идей (sharing)]({% link thoughts/sharing.md %})
 - [Привычки]({% link thoughts/habits.md %})
 - [Эволюция базы данных для статей]({% link thoughts/article-database-evolution.md %})
+- [Заплати сколько хочешь]({% link thoughts/pay-what-you-want.md %})
 
 ## Задачи по физике
 
