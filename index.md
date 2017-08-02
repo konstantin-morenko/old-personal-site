@@ -116,6 +116,7 @@ title: Персональный сайт Константина Моренко
 - [Эволюция базы данных для статей]({% link thoughts/article-database-evolution.md %})
 - [Заплати сколько хочешь]({% link thoughts/pay-what-you-want.md %})
 - [О Любищеве]({% link thoughts/lubishev.md %})
+- [Подготовка к большим переменам]({% link thoughts/big-changes-preparation.md %})
 
 ## Задачи по физике
 
