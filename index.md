@@ -117,6 +117,7 @@ title: Персональный сайт Константина Моренко
 - [Заплати сколько хочешь]({% link thoughts/pay-what-you-want.md %})
 - [О Любищеве]({% link thoughts/lubishev.md %})
 - [Подготовка к большим переменам]({% link thoughts/big-changes-preparation.md %})
+- [Маленькие радости]({% link thoughts/little-joys.md %})
 
 ## Задачи по физике
 
