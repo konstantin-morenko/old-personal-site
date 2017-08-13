@@ -118,6 +118,7 @@ title: Персональный сайт Константина Моренко
 - [О Любищеве]({% link thoughts/lubishev.md %})
 - [Подготовка к большим переменам]({% link thoughts/big-changes-preparation.md %})
 - [Маленькие радости]({% link thoughts/little-joys.md %})
+- [Долгосрочное планирование]({% link thoughts/plans.md %})
 
 ## Задачи по физике
 
