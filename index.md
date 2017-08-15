@@ -121,6 +121,7 @@ title: Персональный сайт Константина Моренко
 - [Долгосрочное планирование]({% link thoughts/plans.md %})
 - [Изучение иностранных языков]({% link thoughts/learning-foreign-language.md %})
 - [Конечность времени жизни]({% link thoughts/death.md %})
+- [Минимализм]({% link thoughts/minimal.md %})
 
 ## Задачи по физике
 
