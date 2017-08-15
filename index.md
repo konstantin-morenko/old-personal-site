@@ -119,6 +119,7 @@ title: Персональный сайт Константина Моренко
 - [Подготовка к большим переменам]({% link thoughts/big-changes-preparation.md %})
 - [Маленькие радости]({% link thoughts/little-joys.md %})
 - [Долгосрочное планирование]({% link thoughts/plans.md %})
+- [Изучение иностранных языков]({% link thoughts/learning-foreign-language.md %})
 - [Конечность времени жизни]({% link thoughts/death.md %})
 
 ## Задачи по физике
