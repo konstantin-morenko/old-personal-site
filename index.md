@@ -103,6 +103,10 @@ title: Персональный сайт Константина Моренко
 - [Изменение метаданных pdf-файла]({% link var/change-pdf-title-and-author.md %})
 - [Как хорошо высыпаться]({% link var/sleep-better.md %})
 
+## Отчеты
+
+- [2017-08-07]({% link reports/2017-08-07.md %})
+
 ## Размышления
 
 - [Размышления о Пути]({% link thoughts/thoughts-about-path.md %})
