@@ -126,6 +126,7 @@ title: Персональный сайт Константина Моренко
 - [Изучение иностранных языков]({% link thoughts/learning-foreign-language.md %})
 - [Конечность времени жизни]({% link thoughts/death.md %})
 - [Минимализм]({% link thoughts/minimal.md %})
+- [«Плохой» день]({% link thoughts/bad-day.md %})
 
 ## Задачи по физике
 
