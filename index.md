@@ -123,10 +123,14 @@ title: Персональный сайт Константина Моренко
 - [Подготовка к большим переменам]({% link thoughts/big-changes-preparation.md %})
 - [Маленькие радости]({% link thoughts/little-joys.md %})
 - [Долгосрочное планирование]({% link thoughts/plans.md %})
+- [Исходные материалы]({% link thoughts/starting-materials.md %})
 - [Изучение иностранных языков]({% link thoughts/learning-foreign-language.md %})
 - [Конечность времени жизни]({% link thoughts/death.md %})
 - [Минимализм]({% link thoughts/minimal.md %})
 - [«Плохой» день]({% link thoughts/bad-day.md %})
+- [На пределе]({% link thoughts/at-limit.md %})
+- [Здесь и сейчас]({% link thoughts/now.md %})
+- [«Обязательный» отдых]{% link thoughts/relax.md %})
 - [Урок мотивации]({% link thoughts/motivation.md %})
 
 ## Задачи по физике
