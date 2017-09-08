@@ -127,6 +127,7 @@ title: Персональный сайт Константина Моренко
 - [Конечность времени жизни]({% link thoughts/death.md %})
 - [Минимализм]({% link thoughts/minimal.md %})
 - [«Плохой» день]({% link thoughts/bad-day.md %})
+- [Урок мотивации]({% link thoughts/motivation.md %})
 
 ## Задачи по физике
 
