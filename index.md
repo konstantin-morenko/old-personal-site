@@ -132,6 +132,7 @@ title: Персональный сайт Константина Моренко
 - [Здесь и сейчас]({% link thoughts/now.md %})
 - [«Обязательный» отдых]{% link thoughts/relax.md %})
 - [Урок мотивации]({% link thoughts/motivation.md %})
+- [От знаний к навыкам]({% link thoughts/knowledge-into-actions.md %})
 
 ## Задачи по физике
 
