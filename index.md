@@ -130,7 +130,7 @@ title: Персональный сайт Константина Моренко
 - [«Плохой» день]({% link thoughts/bad-day.md %})
 - [На пределе]({% link thoughts/at-limit.md %})
 - [Здесь и сейчас]({% link thoughts/now.md %})
-- [«Обязательный» отдых]{% link thoughts/relax.md %})
+- [«Обязательный» отдых]({% link thoughts/relax.md %})
 - [Урок мотивации]({% link thoughts/motivation.md %})
 - [От знаний к навыкам]({% link thoughts/knowledge-into-actions.md %})
 - [Само-мотивация]({% link thoughts/self-motivation.md %})
