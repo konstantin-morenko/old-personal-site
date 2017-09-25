@@ -1,4 +1,6 @@
 # builded site
-site/
+_site/
+
 # emacs backup files
 *~
+\#*
