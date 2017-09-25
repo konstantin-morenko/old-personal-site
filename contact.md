@@ -2,6 +2,10 @@
 title: Обратная связь
 ---
 
-Связаться со мной можно с помощью электронной почты
 
-[me@konstantin-morenko.ru](mailto:me@konstantin-morenko.ru)
+<table class="w3-table">
+  <tr>
+    <td><i class="material-icons">email</i></td>
+	<td><a href="mailto:me@konstantin-morenko.ru">me@konstantin-morenko.ru</a></td>
+  </tr>
+</table>
