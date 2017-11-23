@@ -2,25 +2,29 @@
 title: Резюме
 ---
 
-# Образование
+[Научная квалификация]({% link science/index.md %})
 
-## [Научная квалификация]({% link science/index.md %})
-
-## Высшее образование
-
-## Курсы
-
-### Интернет-университет ИТ-технологий
-
-Сайт университета [intuit.ru](intuit.ru)
-
-{% for year in site.data.diplomas.years %}
-  <h2>{{ year.year }}</h2>
-  <ul>
+{% for type in site.data.diplomas.types %}
+  {% assign color = type.color | default: "w3-yellow" %}
+  <h2>{{ type.name }}</h2>
+  {% for year in type.years %}
+  <h3>{{ year.year }}</h3>
   {% for item in year.items %}
-    <li><a href="{{ item.hyper }}">{{ item.title }}</a></li>
+  <div class="w3-card w3-light-gray w3-section">
+  <div class="w3-container w3-padding {{ color }}">{{ item.inst }}</div>
+  <div class="w3-container w3-xlarge">{{ item.title }}</div>
+  <div class="w3-container w3-padding {{ color }}">
+  {% if item.href %}
+  <a href="{{ item.href }}">
+  {% endif %}
+  {{ item.spec | default: "Диплом" }}
+  {% if item.href %}
+  <i class="fa fa-external-link"></i></a>
+  {% endif %}
+  </div>
+  </div>
   {% endfor %}
-  </ul>
+  {% endfor %}
 {% endfor %}
 
 # Научные труды
