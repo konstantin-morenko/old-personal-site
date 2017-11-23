@@ -2,6 +2,11 @@
 title: Персональный сайт Константина Моренко
 ---
 
+# Структура страниц
+
+- Мои книги: [books.konstantin-morenko.ru]
+  - Как написать книгу: [howto-write-book.books.konstantin-morenko.ru](https://howto-write-book.books.konstantin-morenko.ru)
+
 # Как формируется этот сайт {#forming}
 
 Когда я начинал писать свой блог первые десять раз, я постоянно
