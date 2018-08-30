@@ -5,7 +5,6 @@ title: Персональный сайт Константина Моренко
 # Мои книги [books.konstantin-morenko.ru]
 
 - Популярная литература:
-  - Как написать книгу: [howto-write-book.books.konstantin-morenko.ru](https://howto-write-book.books.konstantin-morenko.ru)
   - [Мнемотехника](https://www.gitbook.com/read/book/konstantin-morenko/mnemotehnika) (в разработке)
   - [История технологий](https://www.gitbook.com/read/book/konstantin-morenko/istoriya-tehnologii) (в разработке)
   - [Электротехнилогии, аккумуляторы и батареи](battery-info.ru) (в разработке)
