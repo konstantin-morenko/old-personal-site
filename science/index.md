@@ -19,8 +19,8 @@ title: Научные труды
 каждой статьи.
 
 Список моих научных трудов в хронологическом порядке в
-[pdf](https://github.com/konstantin-morenko/list-of-scholarly-writings/raw/master/konstantin-morenko.pdf), или
-[biblatex]({% link science/konstantin-morenko.bst %}).
+[pdf](https://github.com/konstantin-morenko/list-of-scholarly-writings/blob/travis/konstantin-morenko.pdf), или
+[biblatex](https://github.com/konstantin-morenko/list-of-scholarly-writings/blob/travis/konstantin-morenko.bst).
 
 Статьи в настоящее время в стадии заполнения.  Обращайтесь к профилю в
 elibrary или к pdf.
